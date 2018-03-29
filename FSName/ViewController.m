@@ -20,6 +20,9 @@
     NSLog(@"11111111");
 
     NSLog(@"22222");
+    
+    
+    NSLog(@"fixBug");
 
     // Do any additional setup after loading the view, typically from a nib.
 }
