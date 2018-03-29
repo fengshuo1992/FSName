@@ -26,6 +26,9 @@
     NSLog(@"fixBug");
 
     NSLog(@"44444444");
+    
+    
+    NSLog(@"%@", @"在分支上修改并且推送到远程分支");
 
 
     // Do any additional setup after loading the view, typically from a nib.
