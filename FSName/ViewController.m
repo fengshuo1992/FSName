@@ -22,7 +22,11 @@
     NSLog(@"22222");
     
     
+
     NSLog(@"fixBug");
+
+    NSLog(@"44444444");
+
 
     // Do any additional setup after loading the view, typically from a nib.
 }
